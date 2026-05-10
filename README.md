@@ -37,7 +37,7 @@ This project allows users to perform banking operations digitally with secure au
 - Express.js
 
 ### Database
-- MySQL / MongoDB
+- MySQL
 
 ---
 
