@@ -1,0 +1,25 @@
+.admin {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.admin input {
+  padding: 8px;
+  width: 250px;
+}
+
+.admin button {
+  padding: 8px 15px;
+  background: #333;
+  color: white;
+  border: none;
+}
+
+.admin table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+.admin th, .admin td {
+  padding: 10px;
+}

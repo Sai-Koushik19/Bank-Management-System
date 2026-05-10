@@ -1,0 +1,21 @@
+.dashboard {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.dashboard button {
+  padding: 8px 15px;
+  margin: 5px;
+  background: green;
+  color: white;
+  border: none;
+}
+
+.dashboard table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+.dashboard th, .dashboard td {
+  padding: 10px;
+}
