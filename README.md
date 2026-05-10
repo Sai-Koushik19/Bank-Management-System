@@ -114,10 +114,6 @@ DB_NAME=bank_db
 
 ---
 
-## 📸 Screenshots
-
-Add project screenshots here.
-
 ---
 
 ## 🌐 Deployment
